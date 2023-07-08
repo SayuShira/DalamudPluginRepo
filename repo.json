@@ -1,23 +1,25 @@
-{
-  "Author": "SayuShira",
-  "Name": "Quiet MSQ",
-  "InternalName": "Quiet MSQ",
-  "AssemblyVersion": "0.0.1.0",
-  "Description": "You don't mind the MSQ roulette but would like to enjoy your on-the-side stream without game sounds?\nThis plugin mutes the cutscenes and restores sound once they end.",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "Cutscenes",
-    "Roulette",
-    "QoL"
-  ],
-  "DalamudApiLevel": 8,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "At least be silent!",
-  "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip",
-  "DownloadLinkTesting": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip"
-}
+[
+  {
+    "Author": "SayuShira",
+    "Name": "Quiet MSQ",
+    "InternalName": "Quiet MSQ",
+    "AssemblyVersion": "0.0.1.0",
+    "Description": "You don't mind the MSQ roulette but would like to enjoy your on-the-side stream without game sounds?\nThis plugin mutes the cutscenes and restores sound once they end.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Cutscenes",
+      "Roulette",
+      "QoL"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "At least be silent!",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip"
+  }
+]
