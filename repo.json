@@ -18,8 +18,8 @@
     "LoadPriority": 0,
     "Punchline": "At least be silent!",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.2/latest.zip"
   }
 ]
