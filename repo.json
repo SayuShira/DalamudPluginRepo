@@ -5,6 +5,7 @@
     "InternalName": "Quiet MSQ",
     "AssemblyVersion": "0.0.2.0",
     "Description": "You don't mind the MSQ roulette but would like to enjoy your on-the-side stream without game sounds?\nThis plugin mutes the cutscenes and restores sound once they end.",
+    "RepoUrl": "https://github.com/SayuShira/QuietMSQ",
     "ApplicableVersion": "any",
     "Tags": [
       "Cutscenes",
