@@ -22,5 +22,28 @@
     "DownloadLinkInstall": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.4/latest.zip",
     "DownloadLinkTesting": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.4/latest.zip"
-  }
+  },
+  {
+  "Author": "SayuShira",
+  "Name": "DirectChat",
+  "InternalName": "DirectChat",
+  "AssemblyVersion": "0.0.1.0",
+  "Description": "Add a command /directchat to toggle between chat modes.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Chat",
+    "Command",
+    "QoL"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "The typing way.",
+  "AcceptsFeedback": false
+  "DownloadLinkInstall": "https://github.com/SayuShira/DirectChat/releases/download/0.0.1/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/SayuShira/DirectChat/releases/download/0.0.1/latest.zip",
+  "DownloadLinkTesting": "https://github.com/SayuShira/DirectChat/releases/download/0.0.1/latest.zip"
+}
 ]
