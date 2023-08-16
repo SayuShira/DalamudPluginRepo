@@ -41,7 +41,7 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "The typing way.",
-  "AcceptsFeedback": false
+  "AcceptsFeedback": false,
   "DownloadLinkInstall": "https://github.com/SayuShira/DirectChat/releases/download/0.0.1/latest.zip",
   "DownloadLinkUpdate": "https://github.com/SayuShira/DirectChat/releases/download/0.0.1/latest.zip",
   "DownloadLinkTesting": "https://github.com/SayuShira/DirectChat/releases/download/0.0.1/latest.zip"
