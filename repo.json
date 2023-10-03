@@ -3,7 +3,7 @@
     "Author": "SayuShira",
     "Name": "Quiet MSQ",
     "InternalName": "Quiet MSQ",
-    "AssemblyVersion": "0.0.4.0",
+    "AssemblyVersion": "0.1.0.0",
     "Description": "You don't mind the MSQ roulette but would like to enjoy your on-the-side stream without game sounds?\nThis plugin mutes the cutscenes and restores sound once they end.",
     "RepoUrl": "https://github.com/SayuShira/QuietMSQ",
     "ApplicableVersion": "any",
@@ -12,22 +12,22 @@
       "Roulette",
       "QoL"
     ],
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "At least be silent!",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/SayuShira/QuietMSQ/releases/download/0.0.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/SayuShira/QuietMSQ/releases/download/0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SayuShira/QuietMSQ/releases/download/0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SayuShira/QuietMSQ/releases/download/0.1.0/latest.zip"
   },
   {
   "Author": "SayuShira",
   "Name": "DirectChat",
   "InternalName": "DirectChat",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.1.0.0",
   "Description": "Add a command /directchat to toggle between chat modes.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -35,15 +35,15 @@
     "Command",
     "QoL"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "The typing way.",
   "AcceptsFeedback": false,
-  "DownloadLinkInstall": "https://github.com/SayuShira/DirectChat/releases/download/0.0.2/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/SayuShira/DirectChat/releases/download/0.0.2/latest.zip",
-  "DownloadLinkTesting": "https://github.com/SayuShira/DirectChat/releases/download/0.0.2/latest.zip"
+  "DownloadLinkInstall": "https://github.com/SayuShira/DirectChat/releases/download/0.1.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/SayuShira/DirectChat/releases/download/0.1.0/latest.zip",
+  "DownloadLinkTesting": "https://github.com/SayuShira/DirectChat/releases/download/0.1.0/latest.zip"
 }
 ]
