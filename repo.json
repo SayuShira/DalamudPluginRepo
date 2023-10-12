@@ -27,7 +27,7 @@
   "Author": "SayuShira",
   "Name": "DirectChat",
   "InternalName": "DirectChat",
-  "AssemblyVersion": "0.1.1.0",
+  "AssemblyVersion": "0.1.2.0",
   "Description": "Add a command /directchat to toggle between chat modes.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -42,8 +42,8 @@
   "LoadPriority": 0,
   "Punchline": "The typing way.",
   "AcceptsFeedback": false,
-  "DownloadLinkInstall": "https://github.com/SayuShira/DirectChat/releases/download/0.1.1/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/SayuShira/DirectChat/releases/download/0.1.1/latest.zip",
-  "DownloadLinkTesting": "https://github.com/SayuShira/DirectChat/releases/download/0.1.1/latest.zip"
+  "DownloadLinkInstall": "https://github.com/SayuShira/DirectChat/releases/download/0.1.2/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/SayuShira/DirectChat/releases/download/0.1.2/latest.zip",
+  "DownloadLinkTesting": "https://github.com/SayuShira/DirectChat/releases/download/0.1.2/latest.zip"
 }
 ]
