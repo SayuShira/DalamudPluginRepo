@@ -23,5 +23,26 @@
     "DownloadLinkInstall": "https://github.com/SayuShira/QuietMSQ/releases/download/0.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SayuShira/QuietMSQ/releases/download/0.3.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/SayuShira/QuietMSQ/releases/download/0.3.0/latest.zip"
+  },
+  {
+  "Author": "goat, modded by Franz, Reborn by Raiden and Sayu",
+  "Name": "Discord Chat Bridge Reborn",
+  "InternalName": "Dalamud.DiscordBridgeReborn",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "This plugin allows you to receive your chat messages via Discord.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
+  "Tags": [
+    "discord",
+    "chat"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Receive your chat messages via Discord.",
+  "Changelog": "Removed bot stop/start on logout/login events. It seems this was causing some issues.\n\nThe plugin will also now cache LocalPlayer on every Framework ticket instead of only on Login events. That should help with LocalPlayer resolutions showing up as null when they shouldn't be.",
+  "AcceptsFeedback": true
   }
 ]
