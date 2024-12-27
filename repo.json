@@ -32,6 +32,7 @@
   "Description": "This plugin allows you to receive your chat messages via Discord.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
+  "IconUrl": "https://raw.githubusercontent.com/SayuShira/DalamudPluginRepo/refs/heads/main/icons/ChatBridge.png"
   "Tags": [
     "discord",
     "chat"
@@ -44,5 +45,8 @@
   "Punchline": "Receive your chat messages via Discord.",
   "Changelog": "Removed bot stop/start on logout/login events. It seems this was causing some issues.\n\nThe plugin will also now cache LocalPlayer on every Framework ticket instead of only on Login events. That should help with LocalPlayer resolutions showing up as null when they shouldn't be.",
   "AcceptsFeedback": true
+  "DownloadLinkInstall": "https://github.com/SayuShira/Dalamud.DiscordBridge/releases/download/2.0.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/SayuShira/Dalamud.DiscordBridge/releases/download/2.0.0/latest.zip",
+  "DownloadLinkTesting": "https://github.com/SayuShira/Dalamud.DiscordBridge/releases/download/2.0.0/latest.zip"
   }
 ]
