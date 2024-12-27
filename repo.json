@@ -32,7 +32,7 @@
   "Description": "This plugin allows you to receive your chat messages via Discord.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/SayuShira/DalamudPluginRepo",
-  "IconUrl": "https://raw.githubusercontent.com/SayuShira/DalamudPluginRepo/refs/heads/main/icons/ChatBridge.png"
+  "IconUrl": "https://raw.githubusercontent.com/SayuShira/DalamudPluginRepo/refs/heads/main/icons/ChatBridge.png",
   "Tags": [
     "discord",
     "chat"
